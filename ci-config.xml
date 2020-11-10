@@ -11,6 +11,6 @@
     <repoGit        base="https://<httpsGitBaseUrl>"        key="tool"         name="workshop-cmake">
 
 
-    <folder         name="Home"                         root="/var/lib/jenkins/jobs">
+    <folder         uuid="Home"     name="Home"      root="/var/lib/jenkins/jobs">
 
 </manifest>
